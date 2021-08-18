@@ -1,6 +1,6 @@
-# startup_namer
+# Startup Namer
 
-A new Flutter application.
+A basic application built in flutter.
 
 ## Getting Started
 
