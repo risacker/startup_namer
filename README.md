@@ -1,6 +1,6 @@
 # Startup Namer
 
-A basic application built in flutter.
+A basic application built in flutter which shows name of startup. You can save your suggestions too.
 
 ## Getting Started
 
